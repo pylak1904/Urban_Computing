@@ -1,0 +1,32 @@
+# Virtual environments
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system file
+.DS_Store
+
+# Environment variables
+.env
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Coverage reports
+coverage/
+
+# SQLite database files
+*.sqlite3
+
+# Data and model directories
+data/
+models/
