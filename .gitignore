@@ -30,3 +30,6 @@ coverage/
 # Data and model directories
 data/
 models/
+firebase_config.json
+index.html
+openDataCollector.py
