@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/keshwithpyla/Documents/urban_computing/venv"
+VIRTUAL_ENV="/Users/keshwithpyla/Documents/CS-FNS/Urban Computing/Assignment-4/submissions/urban_computing/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
